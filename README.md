@@ -1,4 +1,4 @@
-The aim of this project is to successfully design and program a microprocessor to which can successfully implement both encryption and decryption of the present cipher encryption algorithm on an FPGA using VHDL.
+The aim of this project is to successfully design and program a hardware architecture which can successfully implement both encryption and decryption of the present cipher encryption algorithm on an FPGA using VHDL.
 
 Design Methodology
 -Xilinx ISE used for design using VHDL
